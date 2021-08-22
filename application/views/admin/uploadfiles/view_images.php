@@ -1,0 +1,1 @@
+To show all images in the current folder/zip

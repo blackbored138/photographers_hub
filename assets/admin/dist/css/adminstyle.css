@@ -1,0 +1,26 @@
+.register-box{
+    width: 75vw;
+}
+
+.list-backlogs,
+.feedback-types{
+    list-style: none; 
+    padding: 0;
+    height: 47vh;
+    overflow-y: scroll;
+
+}
+.backlogs-list{
+    font-weight: bold;
+    color: #000;
+}
+.backlogs-list-footer{
+    font-size: 0.87em;
+    color: #6c757d;
+}
+
+.create-div-backlog{
+    padding: 0.5em 1.25em;
+    display: none;
+    /* border: 0.3px solid #6c757d; */
+}
